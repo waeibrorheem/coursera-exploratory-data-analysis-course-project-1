@@ -48,13 +48,12 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below.
 
 Plot 1
-plot of chunk unnamed-chunk-2
-
+As appeared in assignment question on coursera
 Plot 2
-plot of chunk unnamed-chunk-3
+As appeared in assignment question on coursera
 
 Plot 3
-plot of chunk unnamed-chunk-4
+As appeared in assignment question on coursera
 
 Plot 4
-plot of chunk unnamed-chunk-5
+As appeared in assignment question on coursera
